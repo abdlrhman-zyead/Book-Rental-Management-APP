@@ -1,0 +1,5 @@
+**React Native:** A framework by Facebook for building **mobile apps** using **JavaScript and React**, letting you create **iOS and Android apps from the same code**.
+
+**Real-life example:** Instagram uses React Native for parts of its mobile app to run on both iOS and Android without rewriting the code twice.
+
+mobile-client-sided

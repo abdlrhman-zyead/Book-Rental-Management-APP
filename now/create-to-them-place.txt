@@ -1,0 +1,5 @@
+mark-down language (markups structures language) 
+
+1 - learn language and put your CV in github repo ??
+2 - in work i work from my exprties and knowledge andd get new knowleddge
+3 - -g in npm i -g nodemon mean install package glopaly
